@@ -1,0 +1,61 @@
+Body{
+	background: rgb(245,245,245);
+	color:purple;
+	font-size: 25px;
+	font-family: 'Open Sans', sans-serif';
+;}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	color: #FF5252;
+	font-weight: lighter;
+	font-size: 10px;
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	color: #FDB631;
+	font-weight: lighter;
+	font-size: 8px;
+}
+
+a{
+	color: green
+}
+a:hover{
+	text-decoration: none;
+	color:yellow;
+}
+
+p{ 
+	font-family: courier;
+	color:blue;
+	font-weight: lighter;
+	font-size: 10px;
+	}
+#banner{
+	text-align: center;
+  	background-image: url("https://unsplash.it/200/300");
+  	background-size: cover;
+  	padding: 150px;
+  	color: white;
+  	text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
